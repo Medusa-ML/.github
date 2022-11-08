@@ -1,23 +1,13 @@
-<img src="./Medusa RGB.jpg" alt="Medusa Logo" style="width:75%;"/>
-
 # Medusa
-open source cross-platform classifiers for making "black box" classifications of documents, images and more 
-
-## What is Medusa?
-
-Medusa is an ensemble of classification models that works on images and text. 
-
-## Goals and Limitations
-
-The goal of this project is to democratize and push forward the fronier of AI-powered tools for low-risk predictons.
+open source cross-platform classifiers for making "black box" (deep learning, with no intention of explaning itself) classifications of documents, images and more 
 
 ## Models in Development
 
 See repository list or [Medusa Main](https://github.com/Medusa-ML/medusa)
 
-## Model Requests and Sponsorship
+## Contact info
 
-for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.com)
+for model requests or inquiries email [medusa@bradflaugher.com](medusa@bradflaugher.com)
 
 ## Support the Project
 
