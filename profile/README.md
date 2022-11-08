@@ -1,5 +1,5 @@
 # Medusa
-open source cross-platform classifiers for making "black box" (deep learning, with no intention of explaning itself) classifications of documents, images and more 
+open source cross-platform classifiers for making "black box" (deep learning, with no intention of explaning itself) classifications of documents, images and more.
 
 ## Models in Development
 
