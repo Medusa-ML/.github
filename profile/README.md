@@ -1,6 +1,6 @@
 # Medusa
 
-a collection of open source cross-platform classifiers for making "black box" (deep learning, with no intention of explaning itself) classifications of documents, images and more.
+a collection of open source cross-platform ml models, mostly working with images and text to either classify or generate. We create our own models (during annual bootcamps/hackathons) and contribute to large open source projects (Mann-E, Open-Assistant and others)
 
 ## Models in Development
 
