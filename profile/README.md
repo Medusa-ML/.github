@@ -1,6 +1,6 @@
 # Medusa
 
-a collection of open source cross-platform ml models, mostly working with images and text to either classify or generate. We create our own models (during annual bootcamps/hackathons) and contribute to large open source projects (Neural Style Transfer, Open-Assistant and others)
+a collection of open source cross-platform ml models, mostly working with images and text to either classify or generate. We create our own models (during annual [bootcamps/hackathons](https://bradflaugher.com/bootcamp.html)) and contribute to large open source projects (Neural Style Transfer, Open-Assistant and others)
 
 ## Models in Development
 
