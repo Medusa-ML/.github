@@ -12,6 +12,7 @@ Want to join our amazing community? Here's how:
 
 * 📧 Send an email to [medusa@bradflaugher.com](mailto:medusa@bradflaugher.com)
 * 💬 Join our Discord server at [https://discord.gg/medusaml](https://discord.gg/medusaml)
+* 🍻 Meet up with us in Philadelphia [at one of our Events on MeetUp](https://meetu.ps/c/4ZdW9/Y4w9Y/dp).
 
 ## 💖 Support the Project
 
