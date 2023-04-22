@@ -4,7 +4,7 @@ Medusa is an **open-source** and **cross-platform** collection of Machine Learni
 
 ## 🌟 Models in Development
 
-To explore the models, check out the repository list or visit [Medusa Main](https://github.com/Medusa-ML/medusa) 🏠.
+To explore the models, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories).
 
 ## 💬 Contributing
 
