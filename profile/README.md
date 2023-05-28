@@ -18,5 +18,5 @@ Want to join our amazing community? Here's how:
 If you love what we do and want to support us, here's how you can help:
 
 * 👕 [Buy a T-Shirt](https://store.bradflaugher.com/)
-* [![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/bc1qxxwucfta56ehdmz0vgxgltrhq9xs8lymudwury): `bc1qxxwucfta56ehdmz0vgxgltrhq9xs8lymudwury`
+* [![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/bc1qlpnkc8mya777a0k8hzwscw6keag8xmws06wnwd9dp9nruzcz878qas8un5): `bc1qlpnkc8mya777a0k8hzwscw6keag8xmws06wnwd9dp9nruzcz878qas8un5`
 * 🅿️ [Support us on Patreon](https://www.patreon.com/bradflaugher)
