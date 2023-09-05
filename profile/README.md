@@ -10,19 +10,19 @@ See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book) and the 
 
 To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories). or see the summary below:
 
-### 💬 Chat & Communication
+### 💬 Text Generators, Fine-Tuning and UIs
 
   - [Chat](https://github.com/Medusa-ML/Chat) - A web interface for chatting with FOSS models, dockerized
   - [Chat2](https://github.com/Medusa-ML/Chat2) - A very fancy web interface for chatting with and LoRA ranking FOSS models, dockerized
   - [FreeChat](https://github.com/Medusa-ML/FreeChat) - A chat-based assistant capable of understanding tasks and interacting with third-party systems.
 
-### 🖼️ Graphics & UI
+### 🖼️ Image Generator, Stylizer and Classifier
   - [Draw](https://github.com/Medusa-ML/Draw) - Easy Docker setup for Stable Diffusion with user-friendly UI.
   - [Stylize](https://github.com/Medusa-ML/Stylize) - Implementing neural style transfer in TensorFlow.
   - [Image-Popularity](https://github.com/Medusa-ML/Image-Popularity) - Research and development related to Instagram photo popularity.
 
 
-### 👩‍💻 Code Execution & Interpretation
+### 👩‍💻 Code Execution
   - [Interpreter](https://github.com/Medusa-ML/Interpreter) - A fork of an open code interpreter that runs locally on your terminal
 
 ## 💬 Contributing
