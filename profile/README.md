@@ -2,13 +2,28 @@
 
 Medusa is a **free and open source** and **cross-platform** collection of Machine Learning models, primarily focusing on image and text processing for tasks like classification and generation. We develop our own models during our annual [bootcamps/hackathons](https://bradflaugher.com/bootcamp.html) 🚀 and contribute to large open-source projects like Neural Style Transfer, LLaMA, Open Assistant, Stable Diffusion and more! 💪
 
-## Training Materials
+## 🧑‍🏫 Training Materials
 
 See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book) and the [Bootcamp](https://github.com/Medusa-ML/Bootcamp) repositories.
 
-## Software and Model Development
+## 🛠️ Software and Model Development
 
-To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories).
+To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories). or see the summary below:
+
+### 💬 Chat & Communication
+
+  - [Chat](https://github.com/Medusa-ML/Chat) - A web interface for chatting with FOSS models, dockerized
+  - [Chat2](https://github.com/Medusa-ML/Chat2) - A very fancy web interface for chatting with and LoRA ranking FOSS models, dockerized
+  - [FreeChat](https://github.com/Medusa-ML/FreeChat) - A chat-based assistant capable of understanding tasks and interacting with third-party systems.
+
+### 🖼️ Graphics & UI
+  - [Draw](https://github.com/Medusa-ML/Draw) - Easy Docker setup for Stable Diffusion with user-friendly UI.
+  - [Stylize](https://github.com/Medusa-ML/Stylize) - Implementing neural style transfer in TensorFlow.
+  - [Image-Popularity](https://github.com/Medusa-ML/Image-Popularity) - Research and development related to Instagram photo popularity.
+
+
+### 👩‍💻 Code Execution & Interpretation
+  - [Interpreter](https://github.com/Medusa-ML/Interpreter) - A fork of an open code interpreter that runs locally on your terminal
 
 ## 💬 Contributing
 
