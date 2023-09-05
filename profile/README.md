@@ -10,7 +10,7 @@ See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book) and the 
 
 To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories). or see the summary below:
 
-### 💬 Text Generators, Fine-Tuning and UIs
+### 💬 Text Generators, Fine-Tuning and Chat UIs
 
   - [Chat](https://github.com/Medusa-ML/Chat) - A web interface for chatting with FOSS models, dockerized
   - [Chat2](https://github.com/Medusa-ML/Chat2) - A very fancy web interface for chatting with and LoRA ranking FOSS models, dockerized
