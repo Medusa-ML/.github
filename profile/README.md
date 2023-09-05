@@ -30,4 +30,10 @@ Many of Medusa's projects are forks from original repositories that were under p
 
 It's important to note that although our forks aim to remain upstream-compatible, they are essentially hard forks under a more restrictive license (GPLv3). This is in line with our commitment to free software and our belief in the benefits of more restrictive licenses that ensure freedom and openness.
 
+### Encouragement for License Transition to GPLv3
+
+We strongly encourage original project authors, whose repositories Medusa has forked, to consider re-licensing under the GNU General Public License, version 3 (GPLv3). Adopting this more restrictive license will enable you to integrate enhancements and improvements contributed by the Medusa team back into your original codebase. This synergistic approach aligns with best practices in free and open-source software development, while providing mutual benefits to all parties involved.
+
 For more information on this matter check out the [Free Software Foundation's Licensing Lab](https://www.fsf.org/licensing/)
+
+
