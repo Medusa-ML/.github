@@ -20,3 +20,14 @@ If you love what we do and want to support us, here's how you can help:
 * 👕 [Buy a T-Shirt](https://store.bradflaugher.com/)
 * 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
 * 🫶 [Support us on Patreon and get AI Analyisis, Career Support, Ebooks and Merch](https://www.patreon.com/bradflaugher)
+
+
+## 📜 Note on Forked Projects and Licensing
+
+Many of Medusa's projects are forks from original repositories that were under permissive licenses such as MIT or Apache. Medusa respects the original licenses of these repositories. Any new code contributions by the Medusa project to these forks are licensed under the GNU General Public License, version 3 (GPLv3). For an example, see our [Medusa Project Fork Licensing Note](https://github.com/Medusa-ML/Chat/blob/main/LICENSING_NOTE).
+
+### Compatibility Note
+
+It's important to note that although our forks aim to remain upstream-compatible, they are essentially hard forks under a more restrictive license (GPLv3). This is in line with our commitment to free software and our belief in the benefits of more restrictive licenses that ensure freedom and openness.
+
+For more information on this matter check out the [Free Software Foundation's Licensing Lab](https://www.fsf.org/licensing/)
