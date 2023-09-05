@@ -2,9 +2,13 @@
 
 Medusa is a **free and open source** and **cross-platform** collection of Machine Learning models, primarily focusing on image and text processing for tasks like classification and generation. We develop our own models during our annual [bootcamps/hackathons](https://bradflaugher.com/bootcamp.html) 🚀 and contribute to large open-source projects like Neural Style Transfer, LLaMA, Open Assistant, Stable Diffusion and more! 💪
 
-## 🌟 Models in Development
+## Training Materials
 
-To explore the models, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories).
+See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book) and the [Bootcamp](https://github.com/Medusa-ML/Bootcamp) repositories.
+
+## Software and Model Development
+
+To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories).
 
 ## 💬 Contributing
 
