@@ -23,7 +23,7 @@ To explore our models and software, check out the [repository list](https://gith
 
 
 ### 👩‍💻 Code Execution
-  - [Interpreter](https://github.com/Medusa-ML/Interpreter) - A fork of an open code interpreter that runs locally on your terminal
+  - [Interpreter](https://github.com/Medusa-ML/Interpreter) - A free and open code interpreter that runs locally on your terminal
 
 ## 💬 Contributing
 
