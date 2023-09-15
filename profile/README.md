@@ -53,6 +53,5 @@ It's important to note that although our forks aim to remain upstream-compatible
 
 We strongly encourage original project authors, whose repositories Medusa has forked, to consider re-licensing under the GNU General Public License, version 3 (GPLv3). Adopting this more restrictive license will enable you to integrate enhancements and improvements contributed by the Medusa team back into your original codebase. This synergistic approach aligns with best practices in free and open-source software development, while providing mutual benefits to all parties involved.
 
-For more information on this matter check out the [Free Software Foundation's Licensing Lab](https://www.fsf.org/licensing/)
-
+For more information on this matter check out the [Free Software Foundation's Licensing Lab](https://www.fsf.org/licensing/) for a list of other Open Source AI projects check out the [Free Software Directory AI Project Team](https://directory.fsf.org/wiki/Free_Software_Directory:Artificial_Intelligence_Project_Team)
 
