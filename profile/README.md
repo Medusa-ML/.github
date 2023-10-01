@@ -10,8 +10,6 @@ See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book) and the 
 
 To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories). or see the summary below:
 
-### 💬 Text Generators, Fine-Tuning and Chat UIs
-
   - [TextGenerationLab](https://github.com/Medusa-ML/TextGenerationLab) - A very fancy web interface for chatting with and LoRA ranking FOSS models, dockerized
   - [Interpreter](https://github.com/Medusa-ML/Interpreter) - A free and open code interpreter that runs locally on your terminal
   - [Engineer](https://github.com/Medusa-ML/Engineer) - A free and open source full stack AI engineer who will build what you ask
