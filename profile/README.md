@@ -6,7 +6,7 @@ Medusa is a **free and open source** collection of Machine Learning tools, prima
 
 See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book) and the [Bootcamp](https://github.com/Medusa-ML/Bootcamp) repositories.
 
-## 🛠️ Software and Model Development
+## 🛠️ Actively Developed Projects
 
 To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories). or see the summary below:
 
