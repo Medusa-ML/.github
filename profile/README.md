@@ -1,6 +1,6 @@
 # 🐍 Medusa 🐍
 
-Medusa is a **free and open source** collection of Machine Learning tools, primarily focusing on text processing for tasks like classification and generation. We develop these tools during our annual [bootcamps/hackathons](https://bradflaugher.com/bootcamp.html) 🚀 and contribute to large open-source projects! 💪
+Medusa is a **free and open source** collection of Machine Learning tools, primarily focusing on text processing for tasks like classification and generation. We develop these tools during our annual [bootcamps](https://bradflaugher.com/bootcamp.html) 🚀 and contribute to large open-source projects! 💪
 
 ## 🧑‍🏫 Training Materials
 
