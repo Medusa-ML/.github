@@ -20,7 +20,7 @@ If you love what we do and want to support us, here's how you can help:
 
 ## 📜 Note on Forked Projects and Licensing
 
-Some of Medusa's projects are forks from original repositories that were under permissive licenses such as MIT or Apache. Medusa respects the original licenses of these repositories. Any new code contributions by the Medusa project to these forks are licensed under the GNU General Public License, version 3 (GPLv3). For an example, see our [Medusa Project Fork Licensing Note](https://github.com/Medusa-ML/Chat/blob/main/LICENSING_NOTE).
+Some of Medusa's projects are forks from original repositories that were under permissive licenses such as MIT or Apache. Medusa respects the original licenses of these repositories. Any new code contributions by the Medusa project to these forks are licensed under the GNU General Public License, version 3 (GPLv3).
 
 ### Compatibility Note
 
