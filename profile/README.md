@@ -1,17 +1,6 @@
 # 🐍 Medusa 🐍
 
-Medusa is a **free and open source** collection of Machine Learning tools, primarily focusing on text processing for tasks like classification and generation. We develop these tools during our annual [bootcamps](https://bradflaugher.com/bootcamp.html) 🚀 and contribute to large open-source projects! 💪
-
-## 🧑‍🏫 Training Materials
-
-See the [AI Harmony Book](https://github.com/Medusa-ML/AI-Harmony-Book), [Bootcamp](https://github.com/Medusa-ML/Bootcamp) and [ML-Template](https://github.com/Medusa-ML/ML-Template) repositories.
-
-## 🛠️ Actively Developed Projects
-
-To explore our models and software, check out the [repository list](https://github.com/orgs/Medusa-ML/repositories). or see the summary below:
-
-  - [Alchemy](https://github.com/Medusa-ML/Alchemy) - Run, Fine-Tune and Explore Free and Open Source LLMs
-  - [Interpreter](https://github.com/Medusa-ML/Interpreter) - Write code with GPT-4
+Medusa is a **free and open source** collection of Machine Learning resources. We develop these tools during our annual [bootcamps](https://bradflaugher.com/bootcamp.html) 🚀 and contribute to large open-source projects! 💪
 
 ## 💬 Contributing
 
