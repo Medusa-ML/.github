@@ -7,7 +7,7 @@ Medusa is a **free and open source** collection of Machine Learning resources. W
 Want to join our amazing community? Here's how:
 
 * 📧 Send an email to [medusa@bradflaugher.com](mailto:medusa@bradflaugher.com)
-* 💬 Join our Discord server at [https://discord.gg/medusaml](https://discord.gg/medusaml)
+* 💬 Join our Discord server at [https://discord.gg/bEPkfhbwE4](https://discord.gg/bEPkfhbwE4)
 * 🍻 Meet up with us in Philadelphia [at one of our Events on MeetUp](https://www.meetup.com/philadelphia-data-engineer-career-growers-group/).
 ## 💖 Support the Project
 
