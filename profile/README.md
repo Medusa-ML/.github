@@ -8,6 +8,4 @@ Want to join our amazing community? Join our Discord server at [https://discord.
 
 ## 💖 Support the Project
 
-If you love what we do and want to support us, here's how you can help:
-
-* 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
+If you love what we do and want to support us, then 💵 [make a donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
